@@ -5,4 +5,11 @@ const sayHello  = function () {
 
 sayHello();
 
+/**********************************************/
+
+// Example 2 :
+const sayHelloToConsole  = function (name) {
+  console.log("Hello, " + name);
+}
+sayHelloToConsole('John'); 
 
